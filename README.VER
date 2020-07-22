@@ -1,3 +1,15 @@
+This is a fork of the [less](https://github.com/gwsw/less) pager. The
+only modification is that it includes support for OSC hyperlinks
+(patch from
+https://bug779734.bugzilla-attachments.gnome.org/attachment.cgi?id=349890).
+
+OSC hyperlinks are described at https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda.
+
+See https://github.com/gwsw/less/issues/54.
+
+The original README follows.
+
+=========================================================================
 
                             Less, version @@VERSION@@
 
